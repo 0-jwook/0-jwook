@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tonnyk1130)](https://solved.ac/tonnyk1130/)
 
 <a href="https://github.com/devxb/gitanimals">
   <img
